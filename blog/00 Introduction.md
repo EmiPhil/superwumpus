@@ -10,7 +10,7 @@ Everything we need to run Superwumpus on a modern browser (see below) will be ma
 
 **Modern Browsers Only**
 
-This is a series about Superwumpus, not a series about supporting every edge case browser that you would need to support in an enterprise application. In particular, I'll make use of ES6 JavaScript features which are [supported by major browsers.](https://caniuse.com/es6).
+This is a series about Superwumpus, not a series about supporting every edge case browser that you would need to support in an enterprise application. In particular, I'll make use of ES6 JavaScript features which are [supported by major browsers](https://caniuse.com/es6).
 
 **Always Runnable**
 
